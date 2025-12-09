@@ -151,9 +151,4 @@ Feel free to file issues, request features, or enhance modules.
 
 ---
 
-## 📝 License
-MIT License © 2025 — Free for education & institutional use.
-
----
-
 ### ⭐ Like this project? **Star the repo!**  
