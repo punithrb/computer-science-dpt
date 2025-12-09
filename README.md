@@ -118,7 +118,7 @@ Open in browser:
 
 | Role | Username | Password | Route |
 |------|----------|----------|-------|
-| Admin | admin1 / sanju@example.com | `Admin@123` | `/signin/admin` |
+| Admin | admin1 / punith@example.com | `Admin@123` | `/signin/admin` |
 | Staff | staff1 / ramesh.kumar@college.edu | `Staff@123` | `/signin/staff` |
 | Student | USN001 / a@g.com | `123456` | `/signin/student` |
 
